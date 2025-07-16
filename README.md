@@ -1,1 +1,2 @@
 # Microsoft-Fabric-Integration-with-Power-Bi
+Microsoft Fabric is a unified, end-to-end analytics platform designed to simplify data management and analytics for organizations. It combines various data services like data engineering, data warehousing, real-time analytics, and business intelligence into a single, integrated platform. This integration aims to streamline the process of accessing, managing, and acting on data, making it easier for both data professionals and business users to derive insights and make informed decisions. 
